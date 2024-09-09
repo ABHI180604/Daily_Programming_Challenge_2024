@@ -16,10 +16,6 @@ def sort(arr):
     
     return arr
 
-array1  =  [0, 1, 2, 1, 0, 2, 1, 0]
-                        
-
-
-# Running the test cases
+array1  =  [0, 1, 2, 1, 0, 2, 1, 0]                       
 sorted_arrays = sort(array1)
 print(sorted_arrays)
